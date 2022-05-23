@@ -10,6 +10,10 @@
   <priority>0.8</priority>
 </url>
 <url>
+  <loc>https://tools.neko2me.net/epe/</loc>
+  <priority>0.8</priority>
+</url>
+<url>
   <loc>https://tools.neko2me.net/sample/h2c/</loc>
   <priority>0.8</priority>
 </url>
